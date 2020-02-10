@@ -3,7 +3,12 @@ CSS
 
 Articles
 --------
-[The CSS Cascade](https://wattenberger.com/blog/css-cascade)
+
+[The CSS Cascade](https://wattenberger.com/blog/css-cascade): a very stylish
+explanation of the CSS cascade.
+
+[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): a comprehensive guide to Flexbox layout, with many illustrations.
+
 
 Libraries
 ---------
