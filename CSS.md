@@ -25,6 +25,8 @@ customize CSS but do not want frameworks that do too much and you have to
 
 Educational Games
 -----------------
+
 [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+
 [Grid Critters](https://gridcritters.com/)
 
