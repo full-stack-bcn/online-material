@@ -19,9 +19,14 @@ framework.
 [Bulma](https://bulma.io/). A smaller and modular CSS framework. Based on
 flexbox.
 
+[Pure](https://purecss.io/). Modular, responsive, CSS framework from Yahoo
+engineers.
+
 [Tail Wind CSS](https://tailwindcss.com/). Low-level CSS framework. You want to
 customize CSS but do not want frameworks that do too much and you have to
 "fight" them to do what you want.
+
+[Milligram](https://milligram.io/). Minimalist CSS framework (only 2kB gzipped).
 
 Educational Games
 -----------------
