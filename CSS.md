@@ -31,3 +31,8 @@ Educational Games
 
 [Grid Critters](https://gridcritters.com/)
 
+
+Tricks
+------
+
+[Transparent Background Images](https://css-tricks.com/snippets/css/transparent-background-images/): There is no CSS ``background-opacity``, but you can fake it.
