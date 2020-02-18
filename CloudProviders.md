@@ -11,8 +11,8 @@ Virtual Servers
 Serverless
 ----------
 
-[Render](https://render.com)
+[Netlify](https://www.netlify.com/)
 
 [Zeit Now](https://zeit.co/)
 
-[Netlify](https://www.netlify.com/)
+[Render](https://render.com)
