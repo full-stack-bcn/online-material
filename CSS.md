@@ -1,6 +1,14 @@
 CSS
 ===
 
+Reference
+---------
+
+[CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS): Reference of CSS from the Mozilla Developer Network.
+
+[cssreference.io](https://cssreference.io/): A free visual guide to CSS.
+
+
 Articles
 --------
 
@@ -24,8 +32,11 @@ Libraries
 
 [Milligram](https://milligram.io/). Minimalist CSS framework (only 2kB gzipped).
 
+
 Educational Games
 -----------------
+
+[Flexbox Froggy](https://flexboxfroggy.com/)
 
 [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
 
