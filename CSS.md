@@ -9,6 +9,13 @@ Reference
 [cssreference.io](https://cssreference.io/): A free visual guide to CSS.
 
 
+CSS Resets
+----------
+
+[Normalize.css](https://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets.
+
+[Eric A. Meyer CSS Reset](https://meyerweb.com/eric/tools/css/reset/): A reset written by the author of [CSS: The Definitive Guide, 4th Edition](https://meyerweb.com/eric/books/css-tdg/), published by O'Reilly.
+
 Articles
 --------
 
