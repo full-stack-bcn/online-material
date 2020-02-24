@@ -17,3 +17,8 @@ Serverless
 
 [Render](https://render.com)
 
+
+Mail Hosting
+------------
+
+[Migadu](https://www.migadu.com/en/index.html): All Inclusive Mail Hosting.
