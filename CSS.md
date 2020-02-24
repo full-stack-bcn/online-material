@@ -16,16 +16,35 @@ CSS Resets
 
 [Eric A. Meyer CSS Reset](https://meyerweb.com/eric/tools/css/reset/): A reset written by the author of [CSS: The Definitive Guide, 4th Edition](https://meyerweb.com/eric/books/css-tdg/), published by O'Reilly.
 
-Articles
---------
 
-[The CSS Cascade](https://wattenberger.com/blog/css-cascade): a very stylish explanation of the CSS cascade.
+Flexbox
+-------
+
+Articles about ``display: flex``.
 
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): a comprehensive guide to Flexbox ayout, with many illustrations.
 
-[scrollbar](https://css-tricks.com/almanac/properties/s/scrollbar/): an article explaning how to style scrollbars.
+[CSS Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout): Documentation about Flexbox layout from the MDN.
+
+
+Grid
+----
+
+[Grid by Example](https://gridbyexample.com/examples/): A list of examples of using ``display: grid``.
+
+The CSS Cascade
+---------------
+
+[The CSS Cascade](https://wattenberger.com/blog/css-cascade): a very stylish explanation of the CSS cascade.
 
 [CSS: An Art, a Science, a Nightmare (Everything You Should Know)](https://www.taniarascia.com/overview-of-css-concepts/): "This article is for the middleground of people who have had to touch CSS a few times here and there but ultimately don't feel like they know what they're doing, or struggle with making basic layouts." (by [Tania Rascia](https://www.taniarascia.com/)).
+
+
+Tricks
+------
+
+[scrollbar](https://css-tricks.com/almanac/properties/s/scrollbar/): an article explaning how to style scrollbars.
+
 
 Libraries
 ---------
