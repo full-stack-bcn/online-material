@@ -9,6 +9,14 @@ Reference
 [cssreference.io](https://cssreference.io/): A free visual guide to CSS.
 
 
+Style separation
+----------------
+
+[CSS Zen Garden](http://www.csszengarden.com/): The same page styled in really different ways.
+
+[Same HTML, Different CSS](https://ishadeed.com/article/same-html-different-css/): different styling for the same HTML in components.
+
+
 CSS Resets
 ----------
 
