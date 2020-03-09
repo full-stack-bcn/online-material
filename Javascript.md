@@ -2,6 +2,13 @@
 Javascript
 ==========
 
+Online Books
+------------
+
+These books can be read online for free and they can also be purchased (paper or PDF):
+1. [Eloquent Javascript](https://eloquentjavascript.net/), a book by Marijn Haverbeke (the author or [codemirror](https://codemirror.net/)).
+2. [Exploring ES6](https://exploringjs.com/es6/) a book by Axel Rauschmayer.
+
 NPM
 ---
 
