@@ -1,6 +1,5 @@
 
-Authentication
-==============
+# Authentication
 
 Learn Authentication the Hard Way (Andrew Best):
 - [Part I](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/)

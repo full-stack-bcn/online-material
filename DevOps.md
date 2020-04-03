@@ -22,3 +22,14 @@ article explaining how to use SSH Certificates.
 ## Mail Hosting
 
 [Migadu](https://www.migadu.com/en/index.html): All Inclusive Mail Hosting.
+
+
+## Instant GraphQL
+
+[Hasura](https://hasura.io/): Realtime GraphQL on PostgreSQL.
+
+[OneGraph](https://www.onegraph.com/): GraphQL integration of many 3rd-party
+services (Stripe, Salesforce, Zendesk, Twitter, GitHub, ...).
+
+
+
