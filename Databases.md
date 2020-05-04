@@ -19,3 +19,8 @@ Auto-generates the query builder based on your DB or a model definition.
 
 [Things I Wished I More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78): A very useful list
 of things to be aware of when working with databases.
+
+## SQL
+
+[The Best Medium-Hard Data Analyst SQL Interview Questions](https://quip.com/2gwZArKuWk7W):
+Interesting interview questions about SQL.
