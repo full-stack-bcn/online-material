@@ -4,3 +4,7 @@
 post, I'm going to make the smallest React-like thing that can do [some of what
 React does]".
 
+# Redux
+
+[Human Redux](https://read.reduxbook.com): A Redux Book by Henrik Joreteg.
+
