@@ -6,6 +6,9 @@
 
 [cssreference.io](https://cssreference.io/): A free visual guide to CSS.
 
+[Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css): A list of
+things that are important to understand about CSS.
+
 
 ## Style separation
 
