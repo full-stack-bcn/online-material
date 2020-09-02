@@ -77,3 +77,9 @@ Articles about ``display: flex``.
 # Tricks
 
 [Transparent Background Images](https://css-tricks.com/snippets/css/transparent-background-images/): There is no CSS ``background-opacity``, but you can fake it.
+
+
+# Design mistakes
+
+[Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes): if
+you have issues with CSS, rest assured that even the designers know about many of them.
