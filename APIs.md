@@ -12,3 +12,7 @@
 ## Web APIs implementation
 
 [How I write HTTP services after eight years](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html): Mat Ryer, co-founder of [Pace](https://pace.dev), tells us about his experience of writing web services in Go.
+
+## How to implement APIs
+
+[RESTful APIs](https://www.parse.ly/help/api/restful-apis): an article about some principles behind the design of an API.
