@@ -1,0 +1,16 @@
+https://icons.mono.company/
+
+Git Exercises!
+https://gitexercises.fracz.com/
+
+Feather Icons!
+https://feathericons.com/
+
+Vektors!
+https://www.vektors.pro/
+
+You Don't Know JS
+https://github.com/getify/You-Dont-Know-JS
+
+Node Best Practices
+https://github.com/goldbergyoni/nodebestpractices
