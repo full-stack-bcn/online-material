@@ -46,3 +46,87 @@ https://kentcdodds.com/blog/usememo-and-usecallback
 SVG Repo
 https://www.svgrepo.com/
 
+Your Guild to React.useCallback
+https://dmitripavlutin.com/dont-overuse-react-usecallback/
+
+Icons8: Iconos gratis
+https://icons8.com
+
+Pexels: Fotos gratis
+https://pexels.com
+
+Goodbye MongoDB, Hello PostgreSQL
+https://developer.olery.com//blog/goodbye-mongodb-hello-postgresql/
+
+1-Line Layouts
+https://1linelayouts.glitch.me/
+
+The Best Classless CSS Frameworks in 2021
+https://www.skypack.dev/blog/2021/03/the-best-classless-css-frameworks-in-2021/
+
+SQLite is the only database you will ever need in most cases
+https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html
+
+Best practices for writing SQL queries
+https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices
+
+Clone Wars - Open source clones of popular sites
+https://gourav.io/clone-wars
+
+Removing jQuery from GitHub.com frontend - The GitHub Blog
+https://github.blog/2018-09-06-removing-jquery-from-github-frontend/
+
+Modern Javascript: Everything you missed over the last 10 years by Sandro Turriate
+https://web.archive.org/web/20210515151920/https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
+
+Announcing Coinbase succesful transition to React Native
+https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971
+
+CSRF, CORS, and HTTP Security headers Demystified
+https://blog.vnaik.com/posts/web-attacks.html
+
+The Cost of Client-side Rehydration
+https://addyosmani.com/blog/rehydration/
+
+How and when to use Async and Defer attributes
+https://zellwk.com/blog/javascript-async-and-defer/
+
+Vídeo muy bueno sobre Deploy en Digital Ocean con todo lo típico
+https://www.youtube.com/watch?v=kR06NoSzAXY&list=WL&index=3
+
+Cómo implementar documentación Swagger en tu API
+https://javascript.plainenglish.io/how-to-implement-and-use-swagger-in-nodejs-d0b95e765245
+
+A Better software architecture for SaaS and software startups
+https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
+
+https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
+
+Exploring JS Book
+https://exploringjs.com/deep-js/toc.html
+
+The pedantic checklist for changing your data model in a web application
+https://rtpg.co/2021/06/07/changes-checklist.html
+
+https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
+
+https://twitter.com/rauschma/status/1398668839177568259
+[■,■,■,■].map(■→●) ⇒ [●,●,●,●]
+[■,●,■,▲].filter(■→true) ⇒ [■,■]
+[■,●,■,▲].find(●→true) ⇒ ●
+[■,●,■,▲].findIndex(●→true) ⇒ 1
+[■,●,■,▲].fill(●) ⇒ [●,●,●,●]
+[■,●,■,▲].some(●→true) ⇒ true
+[■,●,■,▲].every(●→true) ⇒ false
+
+https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/
+
+https://scattered-thoughts.net/writing/against-sql/
+
+SQL Bolt - Learn SQL - Introduction to SQL
+https://sqlbolt.com/
+
+Cleaning Up Git History
+https://blog.sulami.xyz/posts/cleaning-up-git-history/
+
+
