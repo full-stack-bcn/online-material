@@ -129,4 +129,7 @@ https://sqlbolt.com/
 Cleaning Up Git History
 https://blog.sulami.xyz/posts/cleaning-up-git-history/
 
+Live Chat with SvelteKit and socker.io
+https://linu.us/live-chat-with-sveltekit-and-socketio
+
 
