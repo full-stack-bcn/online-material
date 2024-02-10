@@ -81,6 +81,9 @@ Articles about ``display: flex``.
 [Meta Theme Color and Trickery](https://css-tricks.com/meta-theme-color-and-trickery/).
 
 
+[How to Hide Menu on Scroll](https://www.w3schools.com/howto/howto_js_navbar_hide_scroll.asp).
+
+
 # Design mistakes
 
 [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes): if
